@@ -15,5 +15,11 @@ namespace Business.Constants
         internal static string ProductListed = "Ürünler Listelendi.";
 
         public static string UnitPriceInvalid = "Ürünün değeri 0'dan büyük olmalıdır.";
+
+        public static string ProductCountOfCategoryError = "Ürünün kategorisinde en fazla 10 adet ürün bulunmalı.";
+
+        public static string ProductNameAlreadyExist = "Bu isimde bir ürün bulunmaktadır.";
+
+        public static string CategoryLimitExceded = "Kategori limiti aşıldığı için yeni ürün eklenemiyor.";
     }
 }
