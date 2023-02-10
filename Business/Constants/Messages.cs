@@ -18,7 +18,7 @@ namespace Business.Constants
 
         public static string UnitPriceInvalid = "Ürünün değeri 0'dan büyük olmalıdır.";
 
-        public static string ProductCountOfCategoryError = "Ürünün kategorisinde en fazla 10 adet ürün bulunmalı.";
+        public static string ProductCountOfCategoryError = "Ürünün kategorisinde en fazla 100 adet ürün bulunmalı.";
 
         public static string ProductNameAlreadyExist = "Bu isimde bir ürün bulunmaktadır.";
 
